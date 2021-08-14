@@ -1,0 +1,78 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+body {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+header {
+    width: 80%;
+    height: auto;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+
+.botton {
+    width: 10%;
+    padding: 5px 5px;
+    border: 2px ;
+    align-self: flex-start;
+}
+
+.logo {
+    width: 50%;
+    
+}    
+.logo img {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+main {
+    width: 80%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.introducao {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+.personagem {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    border: 20px ridge purple ;
+}
+.cardpersonagens {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+
+}
+
+.card {
+    width: 25%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img-personagem {
+    width: 50%;¨
+
+}
