@@ -1,12 +1,12 @@
 body {
-    background-image: url(../img/bg-medieval2.jpg);
+    background-image: url(../../img/averum_cenario_de_campanha-e1481159899604.jpg);
     background-repeat: no-repeat;
     background-size: 100% auto;
 }
 
 
 .container {
-    background-color: rgba(255, 255, 255, 0.4);
+    background-color: rgba(255, 255, 255, 0.8);
     border-radius: 50px;
     width: 50%;
     display: flex;
