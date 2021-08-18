@@ -1,16 +1,14 @@
 function escolhaPersonagem() {
-    var person = prompt("Cloe \n Luna \n Nick");
+    var person = prompt("Cloe \nLuna \nNick");
     if(person == "Cloe") {
-      return location =("")
-  
+        window.location.href =("../html/person1.html");
     }
     else if (person =="Luna"){
-       return location =("")
+        window.location.href =("../html/gameOver.html");
  
     }
     else if (person =="Nick"){
-        
-      return location=("")
+        window.location.href =("../html/gameOver.html");
     }
 
     else{

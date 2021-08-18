@@ -4,7 +4,7 @@ function decisao() {
         window.location.href =("../html/gameOver.html");
 }
     else if (escolha == "B") {
-        window.location.href =("../js/desafio1.js");
+        window.location.href =("../html/person1-2.html");
    console.log("ta ruim")
 }
     else{
