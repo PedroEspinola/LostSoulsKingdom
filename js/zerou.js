@@ -4,7 +4,7 @@ function decisao() {
         window.location.href =("../html/introducao.html");
     }
     else if (escolha == "B") {
-        window.location.href =("../html/index.html");
+        window.location.href =("../index.html");
     }
     else{
         window.location.href =("../html/gameOver.html")
