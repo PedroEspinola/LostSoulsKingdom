@@ -4,15 +4,15 @@ function escolhaPersonagem() {
         window.location.href =("../html/person-Cloe/person1.html");
     }
     else if (person =="Luna"){
-        window.location.href =("../html/gameOver.html");
- 
+        window.location.href =("../html/person-Luna/person1.html");
+        
     }
     else if (person =="Nick"){
-        window.location.href =("../html/gameOver.html");
+        window.location.href =("../html/person-Nick/person1.html");
     }
-
+    
     else{
-   alert("PÔE O COMANDO CERTO, CABEÇÃO!!");
-       
+        alert("PÔE O COMANDO CERTO, CABEÇÃO!!");
+        
     }
 }
