@@ -7,6 +7,6 @@ function decisao() {
         window.location.href =("../../html/person-Nick/person1-2.html");
     }
     else{
-        alert("Digita Certo")
+        alert("Ta zoando? Digita Certo :x")
     }
 }
