@@ -56,3 +56,34 @@ body{
     background-color: rgb(110, 110, 13);
 }
 
+@media (max-width: 768px) {
+    body{
+        background-size: 100% 100%;
+    }
+
+    .container{
+        border-radius: 50px;
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        margin: 9% auto;
+    }
+
+    .titulo{
+        font-size: 30px;
+    }
+
+    .texto{
+        font-size: 18px;       
+    }
+
+    .button{
+        font-family: 'Solway', serif;
+        font-size: 18px;
+        margin-top: 40px;
+        margin-bottom: 25px;
+        padding: 5px;
+        border-radius: 50PX;
+        width: 80%;
+    }
+}
